@@ -1,2 +1,8 @@
-# flixhaus
-A clone of popcorn TV on React JS
+# Nomflix
+
+## Screens
+
+- [ ] Home
+- [ ] TV Shows
+- [ ] Search
+- [ ] Detail
