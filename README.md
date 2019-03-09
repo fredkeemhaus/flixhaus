@@ -1,4 +1,4 @@
-# Nomflix
+# flixhaus
 
 ## Screens
 
