@@ -28,7 +28,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "nomflix",
+    "name": "flixhaus",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
