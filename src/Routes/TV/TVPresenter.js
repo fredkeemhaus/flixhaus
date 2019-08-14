@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 const TVPresenter = ({ toRated, popular, airingToday, loading, error }) => null;
 
-TVPresenter.PropTypes = {
+TVPresenter.propTypes = {
   toRated: PropTypes.array,
   popular: PropTypes.array,
   airingToday: PropTypes.array,
